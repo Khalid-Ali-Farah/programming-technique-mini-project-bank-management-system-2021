@@ -86,4 +86,4 @@ This project is part of the Programming Technique course mini-projects for the y
 
 ---
 
-Thank you for using the Bank Management System! If you have any questions or suggestions, please open an issue or contact the repository owner.
+Thank you for using the Bank Management System! If you have any questions or suggestions, please open an issue or contact me.
