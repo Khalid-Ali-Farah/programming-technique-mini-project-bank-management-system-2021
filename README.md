@@ -76,9 +76,6 @@ This project demonstrates basic programming techniques without the use of Object
 
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgments
 
