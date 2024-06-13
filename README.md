@@ -79,8 +79,18 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 
 ## Acknowledgments
 
-This project is part of the Programming Technique course mini-projects for the year 2021.
+This project was created by:
+- **Khalid Ali Farah (B032020051)**
+- **Nur Syafiqah Binti Mohammad Rozi (B032110192)**
+- **Israt Jahan Bhuiyan (B032020049)**
+- **Md Ashraful Islam (B032020050)**
 
+### Course and Lecturer
+
+- **Course**: BITP 1113
+- **Lecturer**: Dr. Mashanum Osman
+
+This project is part of the Programming Technique course mini-projects for the year 2021.
 ---
 
 Thank you for using the Bank Management System! If you have any questions or suggestions, please open an issue or contact me.
